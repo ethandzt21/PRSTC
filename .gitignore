@@ -11,9 +11,3 @@ mmscaler.pkl
 my_stock_model.keras
 
 # Ignore package manager directories
-
-
-# Ignore log files
-
-
-# Ignore system files
